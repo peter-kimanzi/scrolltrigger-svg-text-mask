@@ -6,6 +6,7 @@ scroll trigger svg text mask using gsap
 * HTML
 * CSS
 * GSAP
+* JavaScript
 
 
 # View live site
