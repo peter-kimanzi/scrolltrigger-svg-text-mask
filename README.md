@@ -3,6 +3,7 @@
 scroll trigger svg text mask using gsap
 
 ## technologies used
+* HTML
 
 
 # View live site
