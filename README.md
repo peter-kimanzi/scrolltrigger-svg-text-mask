@@ -2,7 +2,7 @@
 
 scroll trigger svg text mask using gsap
 
-# image-accordion-animation-using-swiper-js
+
 image accordion animation using swiper js
 
 
